@@ -13,6 +13,7 @@ com\example\attendance\config\WhatsAppConfig$Account.class
 com\example\attendance\repository\EmployeeRepository.class
 com\example\attendance\model\Attendance.class
 com\example\attendance\model\Employee.class
+com\example\attendance\controller\LoginController.class
 com\example\attendance\service\WhatsAppService.class
 com\example\attendance\controller\WhatsAppController.class
 com\example\attendance\config\WhatsAppConfigV2.class
